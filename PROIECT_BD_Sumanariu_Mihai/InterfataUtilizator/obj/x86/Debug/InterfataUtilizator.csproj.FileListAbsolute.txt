@@ -1,0 +1,40 @@
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\bin\Debug\DotNetOracle.exe.config
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\bin\Debug\DotNetOracle.exe
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\bin\Debug\DotNetOracle.pdb
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\bin\Debug\LibrarieModele.dll
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\bin\Debug\NivelAccesDate.dll
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\bin\Debug\Oracle.DataAccess.dll
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\bin\Debug\NivelAccesDate.pdb
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\bin\Debug\LibrarieModele.pdb
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.FormaAfisare.resources
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\DotNetOracle.FormaMeci.resources
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\DotNetOracle.FormaSpectatori.resources
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\DotNetOracle.MainForm.resources
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.CopyComplete
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\DotNetOracle.exe
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\InterfataUtilizator\obj\x86\Debug\DotNetOracle.pdb
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\bin\Debug\DotNetOracle.exe.config
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\bin\Debug\DotNetOracle.exe
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\bin\Debug\DotNetOracle.pdb
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\bin\Debug\LibrarieModele.dll
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\bin\Debug\NivelAccesDate.dll
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\bin\Debug\Oracle.DataAccess.dll
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\bin\Debug\NivelAccesDate.pdb
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\bin\Debug\LibrarieModele.pdb
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.FormaAfisare.resources
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\DotNetOracle.MECIURI.resources
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\DotNetOracle.SPECTATOR.resources
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\DotNetOracle.MainForm.resources
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.CopyComplete
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\DotNetOracle.exe
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\InterfataUtilizator\obj\x86\Debug\DotNetOracle.pdb

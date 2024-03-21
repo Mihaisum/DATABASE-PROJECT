@@ -1,0 +1,70 @@
+create table STADION_SM32b
+( id number(4) constraint pk_id_sm32b primary key,
+  nume varchar2(50) constraint nn_nume_stadion_sm32b not null,
+  lcoatie varchar2(50)constraint nn_locatie_sm32b not null,
+  capacitate number(6) constraint nn_capacitate_sm32b not null
+);
+
+
+create table MECI_SM32b
+( id number(4) constraint pk_id_meci_sm32b primary key,
+  tip_sport varchar2(50) constraint nn_tip_sport_sm32b not null,
+  nume_echipa varchar2(50) constraint nn_nume_echipa_sm32b not null,
+  data date constraint nn_data_sm32b not null, 
+  durata number(2) constraint nn_durata_sm32b not null,
+  stadion number(4) constraint fk_stadion_sm32b references stadion_sm32b(id),
+  pret_bilet number(4) constraint nn_pret_bilet_sm32b not null
+);
+
+create table SPECTATORI_SM32b
+(id number(6) constraint pk_idspectatori_sm32b primary key,
+ nume varchar2(70) constraint nn_nume_spectatori_sm32b not null,
+ meci number(4) constraint fk_mecism32b references meci_sm32b(id),
+ nr_scaun number(6) constraint nn_nr_scaune_sm32b not null
+);
+
+
+
+create sequence id_stadion_sm32b
+start with 1
+increment by 1;
+
+create sequence id_meci_sm32b
+start with 1
+increment by 1;
+
+create sequence id_spectator_sm32b
+start with 1
+increment by 1;
+
+
+
+
+
+
+//INSERT INTO STADION_SM32b (id, nume, locatie, capacitate)
+VALUES (6, 'Stadion ARENI', 'SUCEAVA', 2000);
+
+
+INSERT INTO STADION_SM32b (id, nume, locatie, capacitate)
+VALUES (7, 'Stadion Steaua', 'Mangalia', 500);
+
+//
+
+
+//INSERT INTO SPECTATORI_SM2b (id_spectator, nume_spectator, id_meci, nr_scaun)
+VALUES (1, 'Alexandru', 1, 101);
+INSERT INTO SPECTATORI_SM2b (id_spectator, nume_spectator, id_meci, nr_scaun)
+VALUES (2, 'Matei', 1, 102);
+INSERT INTO SPECTATORI_SM2b (id_spectator, nume_spectator, id_meci, nr_scaun)
+VALUES (3, 'Iosif', 2, 201);
+INSERT INTO SPECTATORI_SM2b (id_spectator, nume_spectator, id_meci, nr_scaun)
+VALUES (5, 'Ruben', 3, 301);
+INSERT INTO SPECTATORI_SM2b (id_spectator, nume_spectator, id_meci, nr_scaun)
+VALUES (6, 'Claudiu', 3, 303);
+
+
+//INSERT INTO MECI_SM32b (id, tip_sport, nume_echipa, data, durata, stadion, pret_bilet)
+VALUES (4, 'Badminton', 'Badmintonteam', TO_DATE('2023-07-11', 'YYYY-MM-DD'), 90, 7, 34);
+INSERT INTO MECI_SM32b (id, tip_sport, nume_echipa, data, durata, stadion, pret_bilet)
+VALUES (4, 'Badminton', 'BadmintonTeam', TO_DATE('2023-07-11', 'YYYY-MM-DD'), 4, 3, 34);

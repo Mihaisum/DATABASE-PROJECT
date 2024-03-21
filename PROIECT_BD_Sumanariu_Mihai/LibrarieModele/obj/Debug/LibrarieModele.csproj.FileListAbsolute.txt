@@ -1,0 +1,18 @@
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\bin\Debug\LibrarieModele.dll
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\bin\Debug\LibrarieModele.pdb
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\obj\Debug\LibrarieModele.dll
+D:\Facultate\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\obj\Debug\LibrarieModele.pdb
+E:\Facultate\AN III\SEM 2\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\bin\Debug\LibrarieModele.dll
+E:\Facultate\AN III\SEM 2\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\bin\Debug\LibrarieModele.pdb
+E:\Facultate\AN III\SEM 2\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+E:\Facultate\AN III\SEM 2\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+E:\Facultate\AN III\SEM 2\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\obj\Debug\LibrarieModele.dll
+E:\Facultate\AN III\SEM 2\BD - proiect\PROIECT_BD_COZMINCA_ANDA\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\mihai\OneDrive\Documents\PROIECT_BD_Sumanariu_Mihai\LibrarieModele\obj\Debug\LibrarieModele.pdb
